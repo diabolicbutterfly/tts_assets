@@ -51,4 +51,36 @@
     <td><img src="Marit Lage.png" width="180"></td>
   </tr>
   <tr>
-    <td><img src="Mechtitan.png
+    <td><img src="Mechtitan.png" width="180"></td>
+    <td><img src="Moogle.png" width="180"></td>
+    <td><img src="Poison.png" width="180"></td>
+    <td><img src="Primo.png" width="180"></td>
+    <td><img src="Rabbit (1-1 with carrot).png" width="180"></td>
+  </tr>
+  <tr>
+    <td><img src="Rebel 2-2.png" width="180"></td>
+    <td><img src="Replicated Ring.png" width="180"></td>
+    <td><img src="Rogue 2-2.png" width="180"></td>
+    <td><img src="Scorpion Dragon.png" width="180"></td>
+    <td><img src="Shapeshifter 3-2.png" width="180"></td>
+  </tr>
+  <tr>
+    <td><img src="Soldier (1-1 Colorless).png" width="180"></td>
+    <td><img src="Soldier 1-1.png" width="180"></td>
+    <td><img src="Speed.png" width="180"></td>
+    <td><img src="Spirit (2-2 Doggo).png" width="180"></td>
+    <td><img src="Swamp.png" width="180"></td>
+  </tr>
+  <tr>
+    <td><img src="Thrull 2-2.png" width="180"></td>
+    <td><img src="Treasure - Chest.png" width="180"></td>
+    <td><img src="Treasure - Coin.png" width="180"></td>
+    <td><img src="Treasure - Dollars.png" width="180"></td>
+    <td><img src="Treasure - Stonks.png" width="180"></td>
+  </tr>
+  <tr>
+    <td><img src="Wizard (Final Fantasy).png" width="180"></td>
+    <td><img src="Zombie (2-2 Normal).png" width="180"></td>
+    <td><img src="tile_background.png" width="180"></td>
+  </tr>
+</table>
