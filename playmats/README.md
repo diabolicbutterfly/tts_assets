@@ -1,6 +1,10 @@
 # Image Preview Gallery
 
-![1933322956](1933322956.png)
-![23525ki-32](23525ki-32.png)
-![FFT1](FFT1.png)
-![FFT2](FFT2.png)
+<table>
+  <tr>
+    <td><img src="1933322956.png" width="180"></td>
+    <td><img src="23525ki-32.png" width="180"></td>
+    <td><img src="FFT1.png" width="180"></td>
+    <td><img src="FFT2.png" width="180"></td>
+  </tr>
+</table>
