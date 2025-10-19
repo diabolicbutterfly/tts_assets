@@ -1,60 +1,54 @@
 # Image Preview Gallery
 
-![Angel 4-4 (Accurate)](Angel 4-4 (Accurate).png)
-![Ape](Ape.png)
-![Beau](Beau.png)
-![Bird 1-1 (Blue)](Bird 1-1 (Blue).png)
-![Bird 2-2 (Chocobo)](Bird 2-2 (Chocobo).png)
-![Boar](Boar.png)
-![Clown Robot](Clown Robot.png)
-![Construct 0-0](Construct 0-0.png)
-![Copy Cat](Copy Cat.png)
-![Copy Dragon](Copy Dragon.png)
-![Dalek](Dalek.png)
-![Eldrazi (10-10)](Eldrazi (10-10).png)
-![Elemental (Red Blue)](Elemental (Red Blue).png)
-![Energy](Energy.png)
-![Frog 1-1 (Final Fantasy)](Frog 1-1 (Final Fantasy).png)
-![Frog Lizard](Frog Lizard.png)
-![Goat](Goat.png)
-![Hero - Bard](Hero - Bard.png)
-![Hero - Black Mage](Hero - Black Mage.png)
-![Hero - Dragoon](Hero - Dragoon.png)
-![Hero - Monk](Hero - Monk.png)
-![Hero - Ninja](Hero - Ninja.png)
-![Hero - Samurai](Hero - Samurai.png)
-![Hero - Summoner](Hero - Summoner.png)
-![Hero - Warrior](Hero - Warrior.png)
-![Hero - White Mage](Hero - White Mage.png)
-![Hero Thief](Hero Thief.png)
-![Human 1-1 (Balloon)](Human 1-1 (Balloon).png)
-![Human Knight (2-2)](Human Knight (2-2).png)
-![Human Warrior 1-1](Human Warrior 1-1.png)
-![Island](Island.png)
-![Jellyfish](Jellyfish.png)
-![Lander](Lander.png)
-![Manifest Dread](Manifest Dread.png)
-![Marit Lage](Marit Lage.png)
-![Mechtitan](Mechtitan.png)
-![Moogle](Moogle.png)
-![Poison](Poison.png)
-![Primo](Primo.png)
-![Rabbit (1-1 with carrot)](Rabbit (1-1 with carrot).png)
-![Rebel 2-2](Rebel 2-2.png)
-![Replicated Ring](Replicated Ring.png)
-![Rogue 2-2](Rogue 2-2.png)
-![Scorpion Dragon](Scorpion Dragon.png)
-![Shapeshifter 3-2](Shapeshifter 3-2.png)
-![Soldier (1-1 Colorless)](Soldier (1-1 Colorless).png)
-![Soldier 1-1](Soldier 1-1.png)
-![Speed](Speed.png)
-![Spirit (2-2 Doggo)](Spirit (2-2 Doggo).png)
-![Swamp](Swamp.png)
-![Thrull 2-2](Thrull 2-2.png)
-![Treasure - Chest](Treasure - Chest.png)
-![Treasure - Coin](Treasure - Coin.png)
-![Treasure - Dollars](Treasure - Dollars.png)
-![Treasure - Stonks](Treasure - Stonks.png)
-![Wizard (Final Fantasy)](Wizard (Final Fantasy).png)
-![Zombie (2-2 Normal)](Zombie (2-2 Normal).png)
-![tile_background](tile_background.png)
+<table>
+  <tr>
+    <td><img src="Angel 4-4 (Accurate).png" width="180"></td>
+    <td><img src="Ape.png" width="180"></td>
+    <td><img src="Beau.png" width="180"></td>
+    <td><img src="Bird 1-1 (Blue).png" width="180"></td>
+    <td><img src="Bird 2-2 (Chocobo).png" width="180"></td>
+  </tr>
+  <tr>
+    <td><img src="Boar.png" width="180"></td>
+    <td><img src="Clown Robot.png" width="180"></td>
+    <td><img src="Construct 0-0.png" width="180"></td>
+    <td><img src="Copy Cat.png" width="180"></td>
+    <td><img src="Copy Dragon.png" width="180"></td>
+  </tr>
+  <tr>
+    <td><img src="Dalek.png" width="180"></td>
+    <td><img src="Eldrazi (10-10).png" width="180"></td>
+    <td><img src="Elemental (Red Blue).png" width="180"></td>
+    <td><img src="Energy.png" width="180"></td>
+    <td><img src="Frog 1-1 (Final Fantasy).png" width="180"></td>
+  </tr>
+  <tr>
+    <td><img src="Frog Lizard.png" width="180"></td>
+    <td><img src="Goat.png" width="180"></td>
+    <td><img src="Hero - Bard.png" width="180"></td>
+    <td><img src="Hero - Black Mage.png" width="180"></td>
+    <td><img src="Hero - Dragoon.png" width="180"></td>
+  </tr>
+  <tr>
+    <td><img src="Hero - Monk.png" width="180"></td>
+    <td><img src="Hero - Ninja.png" width="180"></td>
+    <td><img src="Hero - Samurai.png" width="180"></td>
+    <td><img src="Hero - Summoner.png" width="180"></td>
+    <td><img src="Hero - Warrior.png" width="180"></td>
+  </tr>
+  <tr>
+    <td><img src="Hero - White Mage.png" width="180"></td>
+    <td><img src="Hero Thief.png" width="180"></td>
+    <td><img src="Human 1-1 (Balloon).png" width="180"></td>
+    <td><img src="Human Knight (2-2).png" width="180"></td>
+    <td><img src="Human Warrior 1-1.png" width="180"></td>
+  </tr>
+  <tr>
+    <td><img src="Island.png" width="180"></td>
+    <td><img src="Jellyfish.png" width="180"></td>
+    <td><img src="Lander.png" width="180"></td>
+    <td><img src="Manifest Dread.png" width="180"></td>
+    <td><img src="Marit Lage.png" width="180"></td>
+  </tr>
+  <tr>
+    <td><img src="Mechtitan.png
